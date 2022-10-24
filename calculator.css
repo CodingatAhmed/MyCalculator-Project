@@ -1,0 +1,104 @@
+.heading {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px;
+    margin-top: 0px;
+}
+.calculatorhead {
+    border-radius: 30px;
+    margin-top: 10px;
+    width: 34%;
+    margin-left: 440px;
+    height: 400px;
+    background-color: #000000b8;
+}
+#finalanswer {
+    font-weight: bolder;
+    background-color: #ffffff;
+   font-family: Crimson Text;
+   font-size: 25px;
+   height: 50px; 
+   border-radius: 10px;
+   display: inline-block;
+   margin-top: 10px;
+   margin-left: 75px;
+}
+#empty, #plusminus, #percent, #divide {
+    border-radius: 6px;
+    border-color: #ffffff;
+    background-color: #000000;
+    color: #ffffff;
+    font-weight: bolder;
+    font-size: larger;
+    display: inline-block;
+    height: 60px;
+    width: 90px;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+#seven, #eight, #nine, #multiply{
+    border-radius: 6px;
+    border-color: #ffffff;
+    background-color: #000000;
+    color: #ffffff;
+    display: inline-block;
+    font-weight: bolder;
+    font-size: larger;
+    display: inline-block;
+    height: 60px;
+    width: 90px;
+    margin-left: 15px;
+    
+
+} #four, #five, #six, #minus {
+    border-radius: 6px;
+    border-color: #ffffff;
+    background-color: #000000;
+    color: #ffffff;
+    display: inline-block;
+    font-weight: bolder;
+    font-size: larger;
+    display: inline-block;
+    height: 60px;
+    width: 90px;
+    margin-left: 15px;
+} 
+#one, #two, #plus, #three {
+    border-radius: 6px;
+    border-color: #ffffff;
+    background-color: #000000;
+    color: #ffffff;
+    display: inline-block;
+    font-weight: bolder;
+    font-size: larger;
+    display: inline-block;
+    height: 60px;
+    width: 90px;
+    margin-left: 15px;
+}
+#one, #two, #three, #plus {
+    border-radius: 6px;
+    border-color: #ffffff;
+    background-color: #000000;
+    color: #ffffff;
+    font-weight: bolder;
+    font-size: larger;
+    display: inline-block;
+    height: 60px;
+    width: 90px;
+    margin-left: 15px;
+}
+#back, #zero, #decimal, #equals {
+    border-radius: 6px;
+    border-color: #ffffff;
+    background-color: #000000;
+    color: #ffffff;
+    display: inline-block;
+    font-weight: bolder;
+    font-size: larger;
+    display: inline-block;
+    height: 60px;
+    width: 90px;
+    margin-left: 15px;
+}
